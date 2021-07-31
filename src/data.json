@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "Tony",
+      "alt": "Iron Man",
+      "team": "Avengers"
+    },
+    {
+      "name": "Steve",
+      "alt": "Captain America",
+      "team": "Avengers"
+    },
+    {
+      "name": "Peter",
+      "alt": "Star Lord",
+      "team": "GOTG"
+    },
+    {
+      "name": "Bruce",
+      "alt": "Hulk",
+      "team": "Avengers"
+    }
+  ]
+}
